@@ -1,5 +1,5 @@
 ## Blaze (Sonic Rush Adventure) V1.0
-- Added Burning Blaze
+- Added Burning Blaze and Fixed Blaze's texture compression.
 
 ## Blaze (Sonic Rush Adventure) V0.8
 - Added Update Support
